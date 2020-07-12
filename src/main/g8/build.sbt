@@ -1,4 +1,4 @@
-ThisBuild / organization := "com.vub.ac.be"
+ThisBuild / organization := "VUB"
 ThisBuild / name := "Assignment-1"
 ThisBuild / version := "0.1"
 ThisBuild / scalaVersion := "2.13.1"
